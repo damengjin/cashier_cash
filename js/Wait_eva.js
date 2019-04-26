@@ -5,5 +5,5 @@ userid = localStorage.getItem("id");
 
 
 function onSubmit () {
-  window.location = 'scheme_choice3.html';
+  window.location = 'example.html';
 }
